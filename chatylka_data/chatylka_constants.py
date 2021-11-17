@@ -77,9 +77,6 @@ E_mult = 1.0
 ####################################################################################################
 # Data for WELLS
 
-# Directory where all txt-files Q_I, P_I and Q_E are there
-data_dir = './'
-
 # Postfixes for file-names (each postfix means the real well's name)
 names = [
         '10',

@@ -1,2 +1,0 @@
-NPV	DCP	RF_dynamic	RF_static	I_dynamic	I_static	N_comp1	N_comp30	N_comp365
-NPV	DCP	RF_dynamic	RF_static	I_dynamic	I_static	N_comp1	N_comp30	N_comp365
